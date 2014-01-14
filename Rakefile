@@ -12,9 +12,8 @@ THEMES = %w(
   simplex
   slate
   spacelab
-  spruce
-  superhero
   united
+  yeti
 ).freeze
 
 
